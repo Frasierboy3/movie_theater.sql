@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vxwmwqee:A9lJJtulcvdDFN3Tg_zuBotCmR0Dzb59@kashin.db.elephantsql.com/vxwmwqee",
+            "name": "vxwmwqee"
+        }
+    ]
+}
